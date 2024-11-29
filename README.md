@@ -1,2 +1,2 @@
 # DevOps-Notes
-All AWS, DevOps Notes' 
+All AWS, DevOps Notes
